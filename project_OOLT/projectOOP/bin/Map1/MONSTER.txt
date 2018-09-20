@@ -1,0 +1,3 @@
+495:135:2:3:250:/Images/monster_down.png
+135:495:2:3:250:/Images/monster_down.png
+495:495:2:3:250:/Images/monster_down.png

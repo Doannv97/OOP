@@ -1,0 +1,2 @@
+Su dung phan mem IDE cua Java nhý NetBean, Eclipse de mo bang cách Import den thý muc projectOOP.
+Nên su dung Eclipse do nhóm thuc hien trên phan men này.
